@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --fromguillaume betty hello
+find ./hello -type f -user guillaume exec chown betty [] +
