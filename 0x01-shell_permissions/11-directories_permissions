@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exc chmod 755 [] +
+find . -type d -exex chmd 755 [] +
