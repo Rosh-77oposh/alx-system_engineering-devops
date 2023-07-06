@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exex chmd 755 [] +
+find . -type d -exec chmd 755 [] +
